@@ -1,0 +1,22 @@
+.custom-img-size-logo{
+    max-width: 200px; /* Define a largura máxima */
+    height: 200; /* Mantém a proporção */
+}
+.custom-img-border{
+    border-radius: 30px;
+}
+.custom-header-bg-color{
+   /* background-color:#dc4c2c;*/
+   background: linear-gradient(250deg,#dc4c2c,#e77d31);
+}
+.custom-button-color{
+    background-color: #dc4c2c;
+}
+.btn-hover-custom{
+    border-color: #dc4c2c;
+}
+.btn-hover-custom:hover{
+    color: #dc4c2c;
+    background-color: #fff;
+    border-color: #dc4c2c;
+}
